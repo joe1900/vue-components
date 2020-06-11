@@ -1,0 +1,31 @@
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+input{
+    border-width: 2px !important;
+}
+.el-button{
+    border-width: 2px !important;
+    padding: 11px 20px;
+} 
+.material-design-icon>.material-design-icon__svg {
+    height: auto !important;
+    width: auto !important;
+}
+.material-design-icon.icon-2x {
+    height: 18px;
+    width: 18px;
+    color: #ffffff;
+}
+.material-design-icon.icon-2x>.material-design-icon__svg {
+    height: 18px;
+    width: 18px;
+    color: #ffffff;
+}
